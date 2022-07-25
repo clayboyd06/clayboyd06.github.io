@@ -5,12 +5,12 @@ img {
  	margin-right: auto;
 	margin-up: 5px;
 	magrin-down: 5px;
-	width: 200px;
-	clip-path: circle(80px at center);
+	width: 180px;
+	clip-path: circle(70px at center);
 }
 
 body {
-	background-color:#EBF5FB;
+	background-image:linear-gradient(white,#EBF5FB);
 	font-family: Optima, sans-serif;
 	color:#212F3D;
 }
@@ -59,4 +59,3 @@ a:active {
 	font-weight:bold;
  	text-decoration: none;
 }
-
